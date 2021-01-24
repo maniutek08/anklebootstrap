@@ -1725,7 +1725,7 @@ pre code {
 .col-xs-offset-1 {  margin-left: 8.33333333%;}
 .col-xs-offset-0 {  margin-left: 0;}
 @media (min-width: 768px) {
-  .col-sm-1, .col-sm-1point5,.col-sm-2,.col-sm-2point5, .col-sm-3, .col-sm-3point5,.col-sm-4, .col-sm-4point5,.col-sm-5,col-sm-5point5, .col-sm-6, .col-sm-6point5,.col-sm-7,.col-sm-7point5, .col-sm-8,.col-sm-8point5, .col-sm-9,.col-sm-9point5, .col-sm-10point5,.col-sm-10point5, .col-sm-11,.col-sm-11point5, .col-sm-12,.col-sm-point5 {  float: left; }
+  .col-sm-1, .col-sm-1point5,.col-sm-2,.col-sm-2point5, .col-sm-3, .col-sm-3point5,.col-sm-4, .col-sm-4point5,.col-sm-5,.col-sm-5point5, .col-sm-6, .col-sm-6point5,.col-sm-7,.col-sm-7point5, .col-sm-8,.col-sm-8point5, .col-sm-9,.col-sm-9point5, .col-sm-10,.col-sm-10point5, .col-sm-11,.col-sm-11point5, .col-sm-12,.col-sm-point5 {  float: left; }
   .col-sm-12 {    width: 100%;  }
 .col-sm-point5 {    width: 4.16666667%;  }
   .col-sm-11 {    width: 91.66666667%;  }
